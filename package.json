@@ -16,3 +16,6 @@
     "tsx": "catalog:"
   }
 }
+"scripts": {
+  "start": "node index.js"
+}
