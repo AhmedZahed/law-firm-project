@@ -1,7 +1,4 @@
-"scripts": {
-  "build": "next build",
-  "start": "next start"
-}
+
 {
   "name": "@workspace/scripts",
   "version": "0.0.0",
